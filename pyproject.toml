@@ -14,13 +14,10 @@ openai = "^1.37.1"
 langchain-openai = "^0.1.17"
 langchain-community = "^0.2.16"
 langchainhub = "^0.1.20"
-black = "^24.4.2"
-flask = "^3.0.3"
 langchain-ollama = "^0.1.0"
 pypdf = "^4.3.1"
 faiss-gpu-cu12 = "^1.8.0.2"
 pycryptodome = "^3.20.0"
-
 
 [build-system]
 requires = ["poetry-core"]
